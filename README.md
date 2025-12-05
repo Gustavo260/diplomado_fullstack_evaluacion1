@@ -1,1 +1,4 @@
-# diplomado_fullstack_evaluacion1
+Integrantes:
+
+- Carlos Siegel Tike
+- Gustavo Díaz Lepe
